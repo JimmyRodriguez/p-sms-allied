@@ -1,5 +1,9 @@
-#ignore bower_components
-'bower_components'
+node_modules
+bower_components
+dist
+.tmp
+.sass-cache
 
-#ignore node_modules
-'node_modules'
+.DS_Store
+npm-debug.log
+/preview/preview.zip
