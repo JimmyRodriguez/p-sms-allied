@@ -1,8 +1,16 @@
 node_modules
-bower_components
 dist
 .tmp
 .sass-cache
+client/bower_components
+landing/bower_components
+landing/css/main.css
+landing/jade
+landing/vendors
+landing/index.html
+
+documentation/index.html
+documentation/layout.html
 
 .DS_Store
 npm-debug.log
